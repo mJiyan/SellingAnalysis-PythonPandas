@@ -1,14 +1,12 @@
 
 
 # Selling-Data-Analysis
-In this tutorial, we look for an answer to how is our last situation after 1 year of sales.
 
 ![](SellingDataAnalysisGIF.gif)
 
-## Setup
-Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
-Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html 
 
+
+In this tutorial, we look for an answer to how is our last situation after 1 year of sales.
 For making this, we are asking some questions:
 
 - What was the best month for sales? How much was earned that month?
@@ -27,8 +25,11 @@ And during answering these questions, we have used many methods. They include:
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
+## Setup
+Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
+Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html 
 
-This tutorial is created based on [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)'s tutorial.
+> This tutorial is created based on [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)'s tutorial.
 
 
 
