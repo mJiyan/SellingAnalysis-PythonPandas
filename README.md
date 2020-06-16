@@ -1,7 +1,7 @@
 
 
 # Selling-Data-Analysis
-In this tutorial, we look for an answer to how is our final state after one year sales.
+In this tutorial, we look for an answer to how is our last situation after 1 year of sales.
 
 ![](SellingDataAnalysisGIF.gif)
 
@@ -28,7 +28,7 @@ And during answering these questions, we have used many methods. They include:
 - Labeling our graphs
 
 
-This tutorial is created based on [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4) tutorial.
+This tutorial is created based on [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)'s tutorial.
 
 
 
