@@ -3,6 +3,8 @@
 # Selling-Data-Analysis
 In this tutorial, we look for an answer to how is our final state after one year sales.
 
+![](SellingDataAnalysisGIF.gif)
+
 ## Setup
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html 
@@ -26,7 +28,8 @@ And during answering these questions, we have used many methods. They include:
 - Labeling our graphs
 
 
-This tutorial is created based on [Keith Galli](https://www.google.com) tutorial.
+This tutorial is created based on [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4) tutorial.
+
 
 
 
