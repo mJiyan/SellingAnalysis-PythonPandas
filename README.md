@@ -29,7 +29,6 @@ And during answering these questions, we have used many methods. They include:
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html 
 
-> This tutorial is created based on [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4)'s tutorial.
 
 
 
